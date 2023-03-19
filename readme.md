@@ -9,8 +9,15 @@
 - [Design](#design)
 - [Security](#security)
   - [Bug bounty](#bug-bounty)
+  - [Defi security](#defi-security)
+  - [OSINT](#osint)
   - [Misc](#misc)
 - [Software Engineering](#software-engineering)
+  - [Web development](#web-development)
+  - [Containers](#containers)
+  - [SEO](#seo)
+  - [AI/ML](#ai/ml)
+- [Contribute](#contribute)
 
 ## Community
 - [Community builders](https://twitter.com/i/lists/1410385144528224259) - Memberships, associations, communities, groups. (Curated by [meeps.app](https://meeps.app))
@@ -35,11 +42,11 @@
 - [OSINT companies](https://twitter.com/i/lists/1438495446809333760) - Official Twitter accounts of companies that develop cybersecurity and OSINT services. (Curated by [Cyber Detective](https://twitter.com/cyb_detective))
 
 ### Misc
-- [Security](https://twitter.com/i/lists/1253742843727876099) - Various security professionals. (Curated by [securibee](https://twitter.com/securibee))
+- [Security](https://twitter.com/i/lists/1253742843727876099) - Various security professionals. (Curated by securibee)
 
 ## Software Engineering
 ### Web Development
-- [Devs](https://twitter.com/i/lists/1253741763073912837) - Developers. (Curated by [securibee](https://twitter.com/securibee))
+- [Devs](https://twitter.com/i/lists/1253741763073912837) - Developers. (Curated by securibee)
 - [DevRel](https://twitter.com/i/lists/1157031092102189056) - Developer advocates. (Curated by [Angie Jones](https://twitter.com/techgirl1908))
 - [Awesome iOS Development](https://twitter.com/i/lists/897931473155764226) - iOS developer related accounts, based on [Awesome iOS Twitter](https://github.com/carolanitz/Awesome-iOS-Twitter). (Curated by [russjr08](https://twitter.com/russjr08))
 
