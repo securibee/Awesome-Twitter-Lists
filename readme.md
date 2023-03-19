@@ -9,7 +9,7 @@
 - [Security](#security)
   - [Bug bounty](#bug-bounty)
   - [Misc](#misc)
-- [Software Engineering](#webdevelopment)
+- [Software Engineering](#software-engineering)
 
 ## Entrepreneurs
 - [Makers Building in Public](https://twitter.com/i/lists/1368738285263159296) - Makers who BUILD IN PUBLIC. No politics. No content marketing. Don't ask to be on it. Curated by [Pieter Levels](https://twitter.com/levelsio).
@@ -27,7 +27,7 @@
 - [Immunefi DeFi Sec List](https://twitter.com/i/lists/1404465310548344833) - The most valuable and interesting accounts in DeFi security. Curated by [Immunefi](https://twitter.com/immunefi).
 
 ### OSINT
-- [OSINT](9https://twitter.com/i/lists/1459796018183106564) - Individuals, companies and developers who post OSINT articles, news and new techniques. Curated by [OH SHINT!](https://twitter.com/ohshint_).
+- [OSINT](https://twitter.com/i/lists/1459796018183106564) - Individuals, companies and developers who post OSINT articles, news and new techniques. Curated by [OH SHINT!](https://twitter.com/ohshint_).
 - [OSINT companies](https://twitter.com/i/lists/1438495446809333760) - Official Twitter accounts of companies that develop cybersecurity and OSINT services. Curated by [Cyber Detective](https://twitter.com/cyb_detective)
 
 ### Misc
