@@ -9,7 +9,7 @@
 - [Design](#design)
 - [Security](#security)
   - [Bug bounty](#bug-bounty)
-  - [Defi security](#defi-security)
+  - [DeFi security](#defi-security)
   - [OSINT](#osint)
   - [Misc](#misc)
 - [Software Engineering](#software-engineering)
@@ -45,7 +45,7 @@
 - [Security](https://twitter.com/i/lists/1253742843727876099) - Various security professionals. (Curated by securibee)
 
 ## Software Engineering
-### Web Development
+### Web development
 - [Devs](https://twitter.com/i/lists/1253741763073912837) - Developers. (Curated by securibee)
 - [DevRel](https://twitter.com/i/lists/1157031092102189056) - Developer advocates. (Curated by [Angie Jones](https://twitter.com/techgirl1908))
 - [Awesome iOS Development](https://twitter.com/i/lists/897931473155764226) - iOS developer related accounts, based on [Awesome iOS Twitter](https://github.com/carolanitz/Awesome-iOS-Twitter). (Curated by [russjr08](https://twitter.com/russjr08))
