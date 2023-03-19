@@ -4,12 +4,16 @@
 
 ## Contents
 
+- [Community](#community)
 - [Entrepreneurs](#entrepreneurs)
 - [Design](#design)
 - [Security](#security)
   - [Bug bounty](#bug-bounty)
   - [Misc](#misc)
 - [Software Engineering](#software-engineering)
+
+## Community
+- [Community builders](https://twitter.com/i/lists/1410385144528224259) - Memberships, associations, communities, groups. (Curated by [meeps.app](https://meeps.app))
 
 ## Entrepreneurs
 - [Makers Building in Public](https://twitter.com/i/lists/1368738285263159296) - Makers who BUILD IN PUBLIC. No politics. No content marketing. Don't ask to be on it. (Curated by [Pieter Levels](https://twitter.com/levelsio))
