@@ -16,7 +16,7 @@
   - [Web development](#web-development)
   - [Containers](#containers)
   - [SEO](#seo)
-  - [AI/ML](#ai/ml)
+  - [AI/ML](#aiml)
 - [Contribute](#contribute)
 
 ## Community
