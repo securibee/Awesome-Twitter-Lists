@@ -57,6 +57,7 @@
 - [SEO](https://twitter.com/i/lists/1341048200677842950) - Individuals, companies, and developers who work on SEO. (Curated by [madawei](https://twitter.com/madawei2699))
 
 ### AI/ML
+- [AI High Signal](https://twitter.com/i/lists/1585430245762441216) - AI twitter accounts that are high signal. (Curated by [swyx](https://twitter.com/swyx))
 - [AI/ML](https://twitter.com/i/lists/952969346518720512) - People and companies working in artificial intelligence, machine learning. (Curated by [Robert Scoble](https://twitter.com/Scobleizer))
 - [AI, AiArt, Generative](https://twitter.com/i/lists/1318967584721690626) - Folks who use, talk about and promote Ai and #aiArt tools and models. (Curated by [Altryne](https://twitter.com/altryne))
 
